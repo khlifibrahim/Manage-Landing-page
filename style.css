@@ -152,37 +152,8 @@ nav .container .menu a:hover {
     width: 330px;
 }
 
-/* .about .container .box .content {
-    align-items: flex-start;
-} */
-
-/* .content {
-    display: grid;
-    grid-template-columns: 1fr; 
-    gap: 10px; 
-}
-
-.row1, .row2 {
-    display: grid;
-    grid-template-columns: 1fr; 
-}
-
-@media screen and (min-width: 375px) {
-    .content {
-        grid-template-columns: 1fr 1fr; 
-    }
-
-    .row1 {
-        grid-column: span 2; 
-    }
-} */
-
-
-
 .about .container .box .content {
     display: grid;
-    /* grid-template-columns: 1fr 1fr; */
-    /* grid-template-rows: 32px 1fr; */
     justify-items: end;
     align-items: start;
     justify-content: end;
